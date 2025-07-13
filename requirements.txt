@@ -1,0 +1,11 @@
+streamlit
+streamlit_lottie
+json
+requests
+datetime
+numpy
+streamlit_option_menu
+firebase_admin
+pickle
+pandas
+hashlib
